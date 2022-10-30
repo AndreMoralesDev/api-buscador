@@ -1,2 +1,1 @@
-# api-buscador
-Api de buscador de Shows de TV
+# API de Shows de TV
